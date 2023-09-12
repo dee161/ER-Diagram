@@ -1,2 +1,2 @@
 # ER-Diagram
-![ott](https://github.com/dee161/ER-Diagram/assets/76099926/b5555267-c873-4121-811e-fe53b76e5612)
+![ott (1)](https://github.com/dee161/ER-Diagram/assets/76099926/9f5492d7-be49-404e-9309-d3832b2e487c)
